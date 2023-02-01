@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NEK1FEKS/hexlet-git-tests/issues"
   },
-  "homepage": "https://github.com/NEK1FEKS/hexlet-git-tests#readme"
+  "homepage": "https://github.com/NEK1FEKS/hexlet-git-tests#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
